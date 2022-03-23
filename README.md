@@ -1,5 +1,5 @@
 # Hover-Boxes-Vanilla-JS
-<h1>CSA Front End Round 2</h1>
+<h2>CSA Front End Round 2</h2>
 
 This project uses Javascript to display details stored about particualr images once the viewer hovers the mouse over the image.
 The divs are fabricated and rendered when mouse is hovered over the image, and is removed when the mouse leaves the image.
